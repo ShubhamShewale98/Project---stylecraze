@@ -7,15 +7,17 @@
   My Role And Responsibility in this Project :
   <br/>
   <br/>
-  In this Website i have created some totally responsive Sub-Header pages like :
+In this Website i have created some totally responsive Sub-Header pages like 
   <br/>
   <br/>
-   <img src="https://site-images.similarcdn.com/image?url=stylecraze.com&t=1&s=1&h=d4fed1d9b7b90d05a6841bf5a88ffb7942ae1d15e9f12cda18229c21ac477b14"></img>
+      <img width="70%" height="500px" src="https://github.com/ShubhamShewale98/Images/blob/main/Screenshot%20(418).png?raw=true"></img>
   <br/>
   <br/>
-  MAKEUP |
-   HAIR CARE |
-   SKIN CARE |
-   HAIRSTYLES |
-   HEALTH & WELLNESS |
-   NEWS
+ i created The Medicals Factor Calculator
+  <br/>
+  <br/>
+          <img width="70%" height="500px" src="https://github.com/ShubhamShewale98/Images/blob/main/Screenshot%20(418).png?raw=true"></img>
+
+  <br/>
+  <br/>
+
