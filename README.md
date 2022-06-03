@@ -10,7 +10,7 @@
 In this Website i have created some totally responsive Sub-Header pages like 
   <br/>
   <br/>
-      <img width="70%" height="500px" src="https://github.com/ShubhamShewale98/Images/blob/main/Screenshot%20(418).png?raw=true"></img>
+     <img  style="margin-top: 50px"width="70%" height="500px" src="https://github.com/ShubhamShewale98/Images/blob/main/Screenshot%20(419).png?raw=true"></img>
   <br/>
   <br/>
  i created The Medicals Factor Calculator
